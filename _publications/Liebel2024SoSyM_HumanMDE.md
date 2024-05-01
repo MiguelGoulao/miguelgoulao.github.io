@@ -1,7 +1,7 @@
 ---
 title: "Human Factors in Model-Driven Engineering: Future Research Goals and Initiatives for MDE"
 collection: publications
-permalink: /publication/Liebel2024SoSyM_HumanMDE.pdf
+permalink: /publication/Liebel2024SoSyM_HumanMDE
 excerpt: 'Software modelling and Model-Driven Engineering (MDE) is traditionally studied from a technical perspective. [...] human factors play a role in the success of MDE'
 date: 2024-04-29
 venue: 'Preprint'
