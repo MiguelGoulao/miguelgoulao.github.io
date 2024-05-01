@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Human Factors in Model-Driven Engineering: Future Research Goals and Initiatives for MDE"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+permalink: /publication/2024_Dagstuhl_SoSyM
+excerpt: 'Software modelling and Model-Driven Engineering (MDE) is traditionally studied from a technical perspective. [...] human factors play a role in the success of MDE'
+date: 2024-04-29
+venue: 'Preprint'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Grischa Liebel, Jil Klünder, Regina Hebig, Christopher Lazik, Inês Nunes, Isabella Graßl, Jan-Philipp Steghöfer, Joeri Exelmans, Julian Oertel, Kai Marquardt, Katharina Juhnke, Kurt Schneider, Lucas Gren, Lucia Happe, Marc Herrmann, Marvin Wyrich, Matthias Tichy, Miguel Goulão, Rebekka Wohlrab, Reyhaneh Kalantari, Robert Heinrich, Sandra Greiner, Satrio Adi Rukmono, Shalini Chakraborty, Silvia Abrahão, Vasco Amaral. (2024). &quot;Human Factors in Model-Driven Engineering: Future Research Goals and Initiatives for MDE.&quot; <i>Pre-print</i>. 1(1).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Purpose: Software modelling and Model-Driven Engineering (MDE) is traditionally studied from a technical perspective. However, one of the core motivations behind the use of software models is inherently human-centred. Models aim to enable practitioners to communicate about software designs, make software understandable, or make software easier to write through domain-specific modelling languages. Several recent studies challenge the idea that these aims can always be reached and indicate that human factors play a role in the success of MDE. However, there is an under-representation of research focusing on human factors in modelling. Methods: During a GI-Dagstuhl seminar, topics related to human factors in modelling were discussed by 26 expert participants from research and industry. Results: In breakout groups, five topics were covered in depth, namely modelling human aspects, factors of modeller experience, diversity and inclusion in MDE, collaboration and MDE, and teaching human-aware MDE. Conclusion: We summarise our insights gained during the discussions on the five topics. We formulate research goals, questions, and propositions that support directing future initiatives towards an MDE community that is aware of and supportive of human factors and values.
