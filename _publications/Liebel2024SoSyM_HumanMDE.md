@@ -1,11 +1,11 @@
 ---
 title: "Human Factors in Model-Driven Engineering: Future Research Goals and Initiatives for MDE"
 collection: publications
-permalink: /publication/Liebel2024SoSyM_HumanMDE.md
+permalink: /publication/Liebel2024SoSyM_HumanMDE.pdf
 excerpt: 'Software modelling and Model-Driven Engineering (MDE) is traditionally studied from a technical perspective. [...] human factors play a role in the success of MDE'
 date: 2024-04-29
 venue: 'Preprint'
-paperurl: 'Liebel2024SoSyM_HumanMDE.pdf'
+paperurl: 'Liebel2024SoSyM_HumanMDE'
 citation: 'Grischa Liebel, Jil Klünder, Regina Hebig, Christopher Lazik, Inês Nunes, Isabella Graßl, Jan-Philipp Steghöfer, Joeri Exelmans, Julian Oertel, Kai Marquardt, Katharina Juhnke, Kurt Schneider, Lucas Gren, Lucia Happe, Marc Herrmann, Marvin Wyrich, Matthias Tichy, Miguel Goulão, Rebekka Wohlrab, Reyhaneh Kalantari, Robert Heinrich, Sandra Greiner, Satrio Adi Rukmono, Shalini Chakraborty, Silvia Abrahão, Vasco Amaral. (2024). &quot;Human Factors in Model-Driven Engineering: Future Research Goals and Initiatives for MDE.&quot; <i>Pre-print</i>. 1(1).'
 ---
 
