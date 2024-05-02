@@ -9,7 +9,7 @@ author_profile: true
 [Conference Papers](#conference-papers)\
 [Book Chapters](#book-chapters)\
 [Workshop Papers](#workshop-papers)\
-[Technical Reports](#tech-reports)\
+[Technical Reports](#tech-reports)
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
@@ -52,11 +52,4 @@ author_profile: true
   {% if post.pubtype == 'report' %}
       {% include archive-single.html %}
   {% endif %}
-{% endfor %}
-
-## All others
-
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
 {% endfor %}
