@@ -9,4 +9,4 @@ paperurl: 'Shreeve2023TOSEM'
 citation: 'Shreeve, Benjamin, Catarina Gralha, Awais Rashid, Joao Araujo, and Miguel Goulão. "Making sense of the unknown: How managers make cyber security decisions." ACM Transactions on Software Engineering and Methodology 32, Issue 4, Article No.: 83 (2023): 1-33.'
 ---
 
-Managers rarely have deep knowledge of cyber security and yet are expected to make decisions with cyber security implications for software-based systems. 
+Add abstract here.
