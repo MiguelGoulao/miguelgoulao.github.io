@@ -12,34 +12,29 @@ redirect_from:
 Education
 ======
 * Ph.D in Informatics, NOVA School of Science and Technology, 2008
-* M.S. in Electrotechnical Engineering, Instituto Superior Técnico, 1999
-* B.S. in Informatics, Instituto Superior Técnico, 1995
+* M.Sc in Electrotechnical Engineering, Instituto Superior Técnico, 1999
+* B.Sc in Informatics, Instituto Superior Técnico, 1995
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2020-... Associate Professor, Departamento de Informática, Faculdade de Ciências e Tecnologia, Universidade Nova de Lisboa
+* 2008-2020 Assistant Professor , Departamento de Informática, Faculdade de Ciências e Tecnologia, Universidade Nova de Lisboa
+* 1999-2008 Teaching Assistant, Departamento de IInformática, Faculdade de Ciências e Tecnologia, Universidade Nova de Lisboa
+* 1996-1998 Invited Teaching Assistant, Instituto Superior de Economia e Gestão, Universidade Técnica de Lisboa
+* 1995-1999 Junior Researcher, INESC
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
-Skills
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software Engineering
+  * Empirical Software Engineering
+  * Human Aspects in Software Engineering
+    * Equity, Diversity and Inclusion in Software Engineering
+    * Developer Experience
+    * User Experience
+  * Requirements Engineering
+  * Model-Driven Engineering
+* Computer Science Education and Training
 
 Publications
 ======
@@ -61,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* (Co-)Leader of WG2 of the EUGAIN COST Action
