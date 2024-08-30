@@ -1,5 +1,5 @@
 ---
-title: "Making sense of the unknown: How managers make cyber security decisions"
+title: "Making Sense of the unknown: How managers make cyber security decisions"
 collection: publications
 permalink: /publication/Shreeve2023TOSEM.pdf
 excerpt: 'Our work demonstrates how organisations and practitioners can enrich goal modelling to capture not only what security goals an organisation has (and how they can operationalise them) but also how and why these goals have been identified.'
