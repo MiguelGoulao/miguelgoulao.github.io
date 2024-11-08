@@ -5,6 +5,7 @@ permalink: /publication/2024-01-01-SCCD-Debugger-a-Debugger-for-Statecharts-and-
 excerpt: '\url{https://doi.org/10.1145/3652620.3687792}'
 date: 2024-09-22
 venue: 'In the proceedings of Proceedings of the ACM / IEEE 27th International Conference on Model Driven Engineering Languages and Systems (MODELS)'
+pubtype: 'workshop'
 paperurl: 'https://doi.org/10.1145/3652620.3687792'
 citation: 'Francisco Simões,  Miguel Goulão,  Vasco Amaral,  Joeri Exelmans,  Hans Vangheluwe, &quot;SCCD Debugger: a Debugger for Statecharts and Class Diagrams.&quot; Proceedings of the ACM / IEEE 27th International Conference on Model Driven Engineering Languages and Systems (MODELS), 2024.'
 ---
