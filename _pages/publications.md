@@ -47,9 +47,16 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-## Workshop Papers
+## Technical Reports
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'report' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+## Booklets
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'booklet' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
