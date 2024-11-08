@@ -9,7 +9,7 @@ author_profile: true
 [Conference Papers](#conference-papers)\
 [Book Chapters](#book-chapters)\
 [Workshop Papers](#workshop-papers)\
-[Technical Reports](#tech-reports)
+[Technical Reports](#tech-reports)\
 [Booklets](#booklets)
 
 {% if site.author.googlescholar %}
