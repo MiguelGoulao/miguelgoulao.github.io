@@ -5,7 +5,7 @@ permalink: /publication/2021-11-18-On-the-impact-of-using-different-templates-on
 date: 2021-09-01
 venue: 'In the proceedings of 29th IEEE International Requirements Engineering Conference'
 pubtype: 'conference'
-URL: 'https://doi.org/10.1109/RE51729.2021.00026'
+paperurl: 'https://doi.org/10.1109/RE51729.2021.00026'
 citation: 'Catarina Gralha,  Rita Pereira,  Miguel Goulão,  João Araujo, &quot;On the impact of using different templates on creating and understanding user stories.&quot; In the proceedings of 29th IEEE International Requirements Engineering Conference, 2021.'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=On+the+impact+of+using+different+templates+on+creating+and+understanding+user+stories){:target="_blank"} for full citation
