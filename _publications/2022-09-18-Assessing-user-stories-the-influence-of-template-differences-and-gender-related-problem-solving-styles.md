@@ -6,6 +6,7 @@ excerpt: 'Our goal was to analyse the differences between 4 alternative user sto
 date: 2022-09-18
 venue: 'Requirements Engineering Journal'
 pubtype: 'journal'
+paperurl: 'https://doi.org/10.1109/RE51729.2021.00026'
 citation: 'Catarina Gralha,  Rita Pereira,  Miguel Goulão,  João Araújo, &quot;Assessing user stories: the influence of template differences and gender-related problem-solving styles.&quot; Requirements Engineering Journal, vol. 27, pp 521-544, 2022.'
 ---
 
