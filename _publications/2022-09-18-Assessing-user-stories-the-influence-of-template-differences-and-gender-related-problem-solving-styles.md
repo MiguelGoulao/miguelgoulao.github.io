@@ -1,10 +1,11 @@
 ---
 title: "Assessing user stories: the influence of template differences and gender-related problem-solving styles"
-collection: journals
+collection: publications
 permalink: /publication/2022-09-01-Assessing-user-stories-the-influence-of-template-differences-and-gender-related-problem-solving-styles
 excerpt: 'Our goal was to analyse the differences between 4 alternative user story templates when creating and understanding user stories. In addition, we used the GenderMag framework to assess the effects of different problem-solving styles, usually associated with gender, while performing the tasks.'
 date: 2022-09-18
 venue: 'Requirements Engineering Journal'
+pubtype: 'journal'
 citation: 'Catarina Gralha,  Rita Pereira,  Miguel Goulão,  João Araújo, &quot;Assessing user stories: the influence of template differences and gender-related problem-solving styles.&quot; Requirements Engineering Journal, vol. 27, pp 521-544, 2022.'
 ---
 \url{https://doi.org/10.1007/s00766-022-00389-1}
