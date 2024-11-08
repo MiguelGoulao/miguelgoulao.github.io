@@ -8,7 +8,6 @@ venue: 'Requirements Engineering Journal'
 pubtype: 'journal'
 citation: 'Catarina Gralha,  Rita Pereira,  Miguel Goulão,  João Araújo, &quot;Assessing user stories: the influence of template differences and gender-related problem-solving styles.&quot; Requirements Engineering Journal, vol. 27, pp 521-544, 2022.'
 ---
-\url{https://doi.org/10.1007/s00766-022-00389-1}
 
 Use [Google Scholar](https://scholar.google.com/scholar?q=Assessing+user+stories:+the+influence+of+template+differences+and+gender+related+problem+solving+styles){:target="_blank"} for full citation
 
