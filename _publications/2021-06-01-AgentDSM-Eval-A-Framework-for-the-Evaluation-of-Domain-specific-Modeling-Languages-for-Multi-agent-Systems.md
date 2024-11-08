@@ -2,7 +2,7 @@
 title: "AgentDSM-Eval: A Framework for the Evaluation of Domain-specific Modeling Languages for Multi-agent Systems"
 collection: publications
 permalink: /publication/2021-06-01-AgentDSM-Eval-A-Framework-for-the-Evaluation-of-Domain-specific-Modeling-Languages-for-Multi-agent-Systems
-excerpt: '\url{}'
+excerpt: 'we introduce an evaluation framework, called AgentDSM-Eval, with its supporting tool which can be used to evaluate MAS DSMLs systematically according to various quantitative and qualitative aspects of agent software development.'
 date: 2021-06-01
 venue: 'Computer Standards and Interfaces'
 paperurl: 'https://doi.org/10.1016/j.csi.2021.103513'
