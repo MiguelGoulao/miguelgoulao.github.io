@@ -1,15 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Object-Oriented Programming"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Nova School of Science and Technology, Department of Computer Science, 2025"
+date: 2025-03-01
+location: "Caparica, Portugal"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
+Find course materials in Moodle.
 Heading 1
 ======
 
