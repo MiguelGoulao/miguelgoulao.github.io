@@ -1,7 +1,7 @@
 ---
 title: "Software Engineering"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate course - Computer Science and Engineering"
 permalink: /teaching/2024-fall-SE
 venue: "NOVA School of Science and Technology, Department of Computer Science"
 date: 2024-09-10
