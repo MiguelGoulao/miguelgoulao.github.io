@@ -1,7 +1,7 @@
 ---
 title: "The Impact of Peers, Mentors and Role Models on Successful PhD Studies"
 collection: publications
-permalink: /publication/2025-08-04-Impact-of-Peers-Mentors-Role-Models-PhD
+permalink: /publication/2025-08-08-Impact-of-Peers-Mentors-Role-Models-PhD
 excerpt: 'This chapter discusses the importance of role models, mentors, and peers in supporting female students’ decision to pursue a PhD. Role models inspire individuals to emulate successful behaviours and set a standard for excellence, while mentors provide guidance, share experiences, and challenge their mentees to reach their full potential.'
 date: 2025-08-08
 venue: 'Actions for Gender Balance in Informatics Across Europe'
