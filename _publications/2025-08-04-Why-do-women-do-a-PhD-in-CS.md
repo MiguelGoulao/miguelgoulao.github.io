@@ -7,7 +7,7 @@ date: 2025-08-04
 venue: 'Journal of Systems and Software'
 pubtype: 'journal'
 paperurl: 'http://arxiv.org/abs/2507.22161'
-citation: 'Erika Ábrahám, Miguel Goulão, Milena Vujosevic Janicic, Sarah Jane Delany, Amal Mersni, Oleksandra Yeremenko, Ozge Buyukdagli, Karima Boudaoud, Caroline Oehlhorn, Ute Schmid, Christina Büsing, Helen Bolke-Hermanns, Kaja Köhnle, Matilde Pato, Deniz Sunar Cerci, and Larissa Schmid, Journal of Systems and Software, August, 2025.'
+citation: 'Erika Ábrahám, Miguel Goulão, Milena Vujošević Janičić, Sarah Jane Delany, Amal Mersni, Oleksandra Yeremenko, Özge Büyükdağlı, Karima Boudaoud, Caroline Oehlhorn, Ute Schmid, Christina Büsing, Helen Bolke-Hermanns, Kaja Köhnle, Matilde Pato, Deniz Sunar Cerci, and Larissa Schmid, Journal of Systems and Software, August, 2025.'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Human+Factors+in+Model+Driven+Engineering:+Future+Research+Goals+and+Initiatives+for+MDE){:target="_blank"} for full citation
 
