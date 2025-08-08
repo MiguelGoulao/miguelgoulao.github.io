@@ -7,7 +7,7 @@ date: 2025-08-08
 venue: 'Actions for Gender Balance in Informatics Across Europe'
 pubtype: 'chapter'
 paperurl: 'https://doi.org/10.1007/978-3-031-78432-3_8'
-citation: 'Judith Knoblach, Ute Schmid, Miguel Goulão, Larissa Schmid, Milena Vujošević Janičić & Karima Boudaoud, "The Impact of Peers, Mentors and Role Models on Successful PhD Studies", Actions for Gender Balance in Informatics Across Europe, pp. 175-195, Springer, August, 2025.'
+citation: 'Judith Knoblach, Ute Schmid, Miguel Goulão, Larissa Schmid, Milena Vujošević Janičić & Karima Boudaoud, "The Impact of Peers, Mentors and Role Models on Successful PhD Studies", In: Penzenstadler, B., Boudaoud, K., Di Marco, A., Caner-Yıldırım, S. (eds) Actions for Gender Balance in Informatics Across Europe. Springer, Cham., pp. 175-195, August, 2025.'
 ---
 Use [Google Scholar](https://doi.org/10.1007/978-3-031-78432-3_8){:target="_blank"} for full citation
 
