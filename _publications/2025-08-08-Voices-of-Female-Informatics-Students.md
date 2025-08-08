@@ -7,7 +7,7 @@ date: 2025-08-08
 venue: 'Actions for Gender Balance in Informatics Across Europe'
 pubtype: 'chapter'
 paperurl: 'https://doi.org/10.1007/978-3-031-78432-3_6'
-citation: 'Özge Büyükdağlı, Miguel Goulão, Milena Vujošević Janičić & Amal Mersni, "Voices of Female Informatics Students Across Universities", Actions for Gender Balance in Informatics Across Europe, pp. 105-135, Springer, August, 2025.'
+citation: 'Özge Büyükdağlı, Miguel Goulão, Milena Vujošević Janičić & Amal Mersni, "Voices of Female Informatics Students Across Universities", In: Penzenstadler, B., Boudaoud, K., Di Marco, A., Caner-Yıldırım, S. (eds) Actions for Gender Balance in Informatics Across Europe. Springer, Cham., pp. 105-135, August, 2025.'
 ---
 Use [DOI](https://doi.org/10.1007/978-3-031-78432-3_6){:target="_blank"} for full citation
 
