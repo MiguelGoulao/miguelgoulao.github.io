@@ -1,16 +1,14 @@
 ---
 title: "Are there gender differences when interacting with social goal models?"
 collection: publications
-permalink: /publication/2020-01-01-Are-there-gender-differences-when-interacting-with-social-goal-models
+permalink: /publication/2020-09-18-Are-there-gender-differences-when-interacting-with-social-goal-models
 excerpt: 'We evaluated the impact of different levels of GenderMag facets on creating, modifying, understanding, and reviewing iStar 2.0 models. Participants with a comprehensive information processing style and a conservative attitude towards risk (characteristics frequently seen in females) solved the tasks with lower speed but higher accuracy. Participants with a selective information processing style (a characteristic frequently seen in males) were able to better separate what was relevant from what was not. The complementarity of results suggests there is more gain in leveraging people’s diversity.'
-date: 2020-01-01
+date: 2020-09-18
 pubtype: 'journal'
 venue: 'Empirical Software Engineering'
-citation: ' Catarina Gralha,  Miguel Goulão,  João Araújo, &quot;Are there gender differences when interacting with social goal models?.&quot; Empirical Software Engineering, 2020.'
+paperurl: 'https://doi.org/10.1007/s10664-020-09883-y'
+citation: 'Catarina Gralha,  Miguel Goulão,  João Araújo, &quot;Are there gender differences when interacting with social goal models?.&quot; Empirical Software Engineering, 25, 5416–5453, 2020.'
 ---
-\url{https://doi.org/10.1007/s10664-020-09883-y}
-
-
 Use [Google Scholar](https://scholar.google.com/scholar?q=Are+there+gender+differences+when+interacting+with+social+goal+models?){:target="_blank"} for full citation
 
 # Abstract
@@ -28,3 +26,4 @@ Although participants with facet levels frequently seen in women had lower speed
 
 ## Conclusions
 Participants with a comprehensive information processing style and a conservative attitude towards risk (characteristics frequently seen in female) solved the tasks with lower speed but higher accuracy. Participants with a selective information processing style (characteristic frequently seen in males) were able to better separate what was relevant from what was not. The complementarity of results suggests there is more gain in leveraging people’s diversity.
+
