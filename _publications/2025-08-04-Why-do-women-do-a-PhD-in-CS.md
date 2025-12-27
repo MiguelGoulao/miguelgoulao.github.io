@@ -6,7 +6,7 @@ excerpt: 'A comprehensive survey with more than 500 participants on the factors 
 date: 2025-08-04
 venue: 'Journal of Systems and Software'
 pubtype: 'journal'
-paperurl: 'http://arxiv.org/abs/2507.22161 , https://doi.org/10.1016/j.jss.2025.112586'
+paperurl: 'https://doi.org/10.1016/j.jss.2025.112586'
 citation: 'Erika Ábrahám, Miguel Goulão, Milena Vujošević Janičić, Sarah Jane Delany, Amal Mersni, Oleksandra Yeremenko, Özge Büyükdağlı, Karima Boudaoud, Caroline Oehlhorn, Ute Schmid, Christina Büsing, Helen Bolke-Hermanns, Kaja Köhnle, Matilde Pato, Deniz Sunar Cerci, and Larissa Schmid, Journal of Systems and Software, August, 2025.'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Human+Factors+in+Model+Driven+Engineering:+Future+Research+Goals+and+Initiatives+for+MDE){:target="_blank"} for full citation
@@ -22,3 +22,6 @@ Use [Google Scholar](https://scholar.google.com/scholar?q=Human+Factors+in+Model
 **Results:** Encouraging factors toward PhD study include interest and confidence in research arising from a research involvement during earlier studies; enthusiasm for and self-confidence in computer science in addition to an interest in an academic career; encouragement from external sources; and a positive perception towards PhD studies which can involve achieving personal goals. Discouraging factors include uncertainty and lack of knowledge of the PhD process, a perception of lower job flexibility, and the requirement for long-term commitment. Gender differences highlighted that female students who pursue a PhD have less confidence in their technical skills than males, but a higher preference for interdisciplinary areas. Female students are less inclined than males to perceive the industry as offering better job opportunities and more flexible career paths than academia.  
 
 **Conclusions:** The insights collected from the survey facilitated the development of a questions' catalogue structured into the *Women Career Lunch* program to help students make a more informed decision concerning whether they should pursue a PhD in computer science. Localised versions of this program, in 8 languages, were created to support its adoption in different countries and assist in mitigating the female under-representation challenge.
+
+### Pre-print:
+[http://arxiv.org/abs/2507.22161](https://arxiv.org/abs/2507.22161)
