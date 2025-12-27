@@ -2,6 +2,7 @@
 title: "On the impact of using different templates on creating and understanding user stories"
 collection: publications
 permalink: /publication/2021-11-18-On-the-impact-of-using-different-templates-on-creating-and-understanding-user-stories
+excerpt: 'We analysed the differences between 4 alternative user story templates when creating and understanding user stories (...) and we found no compelling evidence that one template is better than the others.'
 date: 2021-09-01
 venue: 'In the proceedings of 29th IEEE International Requirements Engineering Conference'
 pubtype: 'conference'
@@ -21,3 +22,4 @@ Use [Google Scholar](https://scholar.google.com/scholar?q=On+the+impact+of+using
 **Results:** Regarding the impact of the different templates in creating user stories, we observed statistically significant differences in some of the metrics for accuracy, speed and visual effort. For understanding user stories, we observed small differences in terms of visual effort. 
 
 **Conclusions:** Although some templates outperformed others in a few metrics, no template obtained the best overall result. As such, we found no compelling evidence that one template is "better" than the others.
+
