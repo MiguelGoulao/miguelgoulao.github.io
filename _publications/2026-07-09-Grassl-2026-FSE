@@ -1,0 +1,18 @@
+---
+title: "Domain Diversity, Motivation, Inclusion, and Feedback in Software Modelling Education"
+collection: publications
+permalink: /publication/2026-07-09-Grassl-2026-FSE
+excerpt: 'Our findings reveal disconnects between educator assumptions and student preferences: Students show greatest motivation for socially relevant domains and prefer choice in selection, while educators overestimate interest in study-related domains.'
+date: 2026-07-09
+venue: 'In the proceedings of the 34th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE Companion '26), July 05-09, 2026, Montreal, QC, Canada. ACM, New York, NY, USA'
+pubtype: 'conference'
+paperurl: 'https://doi.org/10.1145/3803437.3805791'
+citation: 'Isabella Graßl, Christopher Lazik, Shalini Chakraborty, Grischa Liebel, Miguel Goulão. Domain Diversity, Motivation, Inclusion, and Feedback in Software Modelling Education. 2025 IEEE/ACM 47th International Conference on Software Engineering: Software Engineering in Society (ICSE-SEIS), Ottawa, ON, Canada, 2025, pp. 1-12.'
+---
+Use [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yBhrrXwAAAAJ&sortby=pubdate&citation_for_view=yBhrrXwAAAAJ:pxXbYLTb8EgC){:target="_blank"} for full citation
+
+# Abstract
+Student engagement is critical for effective learning in software modelling, yet fostering motivation and inclusivity remains a challenge. While existing research has focused on modelling tools, notations, and assessment, little attention has been given to how the choice of problem domains and the diversity, relatability, and cultural perspectives they bring shape students' learning experiences. This study explores how problem domains and teaching methods influence motivation, engagement, inclusiveness, and feedback in modelling education. To investigate these dimensions, we conducted parallel surveys with 90 students and 22 educators. Our findings reveal disconnects between educator assumptions and student preferences: Students show greatest motivation for socially relevant domains and prefer choice in selection, while educators overestimate interest in study-related domains. The study identifies how minor design choices can exclude students. Students perceive feedback as meaningful when visibly acted upon. These findings suggest inclusive domain selection is central to student motivation; thus, we recommend student-centred domain selection.
+
+### Pre-print
+[[2606.06275] Domain Diversity, Motivation, Inclusion, and Feedback in Software Modelling Education](https://doi.org/10.48550/arXiv.2606.06275)
