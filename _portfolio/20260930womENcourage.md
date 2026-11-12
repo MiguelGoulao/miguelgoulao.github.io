@@ -7,4 +7,4 @@ collection: portfolio
 Program co-chair with Birgit Penzenstadler @ womENcourage 2026. 
 https://womencourage.acm.org/2026/
 
-<img src='/images/womENcourage2026.png'>"
+<img src='/images/womENcourage2026.png'>
